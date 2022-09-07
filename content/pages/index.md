@@ -1,8 +1,8 @@
 ---
 template: 'index-template'
-title: 'Gatsby Starter Glass'
+title: 'Nda not so personal stuffs'
 ---
 
 #Hello World
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+A minimal & beautiful site with nice glassmorphism UI.

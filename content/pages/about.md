@@ -4,9 +4,6 @@ template: about-template
 profile_image: /media/profile-image.jpg
 ---
 
-# Hi, I'm John Doe
+# Hi, I'm An
 
-This website is a live example of a Gatsby Starter — it's not a real blog.
-People using this starter may want to add some information to this page about them or their business.
-
-
+It's already 2AM and things are getting a little bit cold.
